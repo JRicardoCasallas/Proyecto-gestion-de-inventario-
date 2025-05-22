@@ -33,7 +33,7 @@ Un sistema sencillo para gestionar inventarios iniciales mediante consola, ideal
 ## 📥 Instalación y Uso
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/sistema-inventario-basico.git
+   
    ```
 2. Ejecuta el script:
    ```bash
@@ -54,6 +54,6 @@ Un sistema sencillo para gestionar inventarios iniciales mediante consola, ideal
 5. Abre un Pull Request
 
 📄 **Licencia**: MIT  
-🔗 **Repositorio**: [github.com/tu-usuario/sistema-inventario-basico](https://github.com/tu-usuario/sistema-inventario-basico)
+🔗 **Repositorio**: https://github.com/JRicardoCasallas/Proyecto-gestion-de-inventario-/tree/main
 
 ¡Te invitamos a probar el sistema y dejar tus sugerencias en los issues! 💡
